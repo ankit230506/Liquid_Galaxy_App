@@ -1,4 +1,7 @@
+//Basically it is the entry point 
+
 import 'package:flutter/material.dart';
+
 import 'pages/home_page.dart';
 import 'pages/settings_page.dart';
 
@@ -12,7 +15,7 @@ class LGControlApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'LG Control',
+      title: 'Liquid Galaxy Controller App',
       theme: ThemeData(
         primarySwatch: Colors.red,
         useMaterial3: true,

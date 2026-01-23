@@ -1,3 +1,5 @@
+//{Connection details}
+
 import 'package:flutter/material.dart';
 import '../service/lg_service.dart';
 
